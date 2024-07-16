@@ -1,0 +1,14 @@
+@import "leaflet/dist/leaflet.css";
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#__next {
+  height: 100%;
+  width: 100%;
+}
