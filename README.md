@@ -66,6 +66,8 @@ const MyMap = () => {
 export default MyMap;
 ```
 
+![Sample Map](docs/images/sample.png)
+
 ## Properties
 
 The GeoVista component accepts the following properties:
